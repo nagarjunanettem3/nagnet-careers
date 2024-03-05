@@ -1,2 +1,2 @@
 # nagnet-careers
-A Career Portal
+A Careers Portal
